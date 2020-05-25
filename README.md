@@ -1,4 +1,4 @@
-# Hyperblog
+# Hyperblog 💚
 Un blog increíble para el curso de Git y GitHub de Platzi.
 > El curso de Git y GitHub es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning e IA.
 > - Es broma.
@@ -10,4 +10,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 * Trucos muy locos del profesor
 * Las personalidades múltiples del profesor.
 
-Este readme es una broma. No debe ser tomado en serio y debido a su contenido nadie lo debe ver.
+Este readme es una broma. No debe ser tomado en serio y debido a su contenido nadie lo debe ver. ❌
