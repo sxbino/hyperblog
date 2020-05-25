@@ -43,16 +43,25 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
 }
 #post
 {
-    background: white;
-    padding: 1em;
+  background: white;
+  padding: 1em;
+  font-size: 1.5em;
 }
 .footer {
   background: #777777;
   color: white;
   text-align: center;
   padding: 0.5em;
+}
+#post figure {
+  text-align: center;
+    width: 70%;
+  margin: 0 auto;
+}
+#post figure img {
+    width: 100%;
 }
